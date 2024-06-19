@@ -1,17 +1,20 @@
 <h1>Hi 👋, I'm Samarjit Bhogal</h1>
 <h3>An aspiring full-stack developer and co-op student at BCIT</h3>
 
+I have always found myself craving to make things. The enjoyment of seeing the product of your hardwork or even collectively with a team is one of the main reasons why I love being a software developer.
+
+I am currently at BCIT developing indutry skills and I aim to expand my horizons to learn new technologies and network with lovely people such as yourself.
+
 - 🔭 I’m currently working on **A 2D platformer game using SDL2**
 
 - 🌱 I’m currently learning **Basics of the language C**
 
-- 💬 me about **JavaScript**
+- 💬 me about **JavaScript** it's my current favourite language
 <h3 align="left">Connect with me:</h3>
 
 📫 You can reach reach me at **samarjit.v.bhogal@gmail.com**
 
 OR Here on Linkden: <a href="https://www.linkedin.com/in/samarjit-bhogal-691202241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarjit bhogal" height="30" width="40" /></a>
-
 
 <h3 align="left">Languages:</h3>
 
