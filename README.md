@@ -5,7 +5,7 @@ I have always found myself craving to make things. The enjoyment of seeing the p
 
 I am currently at BCIT developing industry skills and aim to expand my horizons to learn new technologies and network with lovely people like yourself.
 
-- 🔭 I’m currently working on **A 2D platformer game using Raylib**
+- 🔭 I’m currently working on **A 2D dungeon crawler game using Raylib**
 
 - 🌱 I’m currently learning **Basics of the language C**
 
