@@ -5,9 +5,9 @@ I have always found myself craving to make things. The enjoyment of seeing the p
 
 I am currently at BCIT developing industry skills and aim to expand my horizons to learn new technologies and network with lovely people like yourself.
 
-- 🔭 I’m currently working on **A 2D dungeon crawler game using Raylib**
+- 🔭 I’m currently working on **Event RSVP web application**
 
-- 🌱 I’m currently learning **Basics of the language C**
+- 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 💬 me about **JavaScript** it's my current favourite language
 <h3 align="left">Connect with me:</h3>
