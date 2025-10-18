@@ -9,8 +9,6 @@ I'm a Junior Software Engineer currently on co-op at ReadyWhen, where I contribu
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
-- 💬 Ask me about **JavaScript**
-
 <h3 align="left">Connect with me:</h3>
 
 📫 You can reach me at **samarjit.v.bhogal@gmail.com**
