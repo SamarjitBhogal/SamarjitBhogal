@@ -5,10 +5,6 @@
 
 I'm a Junior Software Engineer currently on co-op at ReadyWhen, where I contribute to end-to-end testing using the Cypress framework and help improve the platform, GoVeyance, by fixing bugs and developing new features. With a background in Computer Systems Technology from BCIT and a BSc from UBC, I bring a versatile background to solving software problems. I enjoy being a software developer because I like collaborating with others to make an impactful application that can be of help for others.
 
-- 🔭 I’m currently working on **Event RSVP web application**
-
-- 🌱 I’m currently learning **Data structures and Algorithms**
-
 <h3 align="left">Connect with me:</h3>
 
 📫 You can reach me at **samarjit.v.bhogal@gmail.com**
