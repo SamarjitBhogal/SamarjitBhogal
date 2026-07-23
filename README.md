@@ -7,9 +7,7 @@ I'm a Junior Software Engineer currently on co-op at ReadyWhen, where I contribu
 
 <h3 align="left">Connect with me:</h3>
 
-📫 You can reach me at **samarjit.v.bhogal@gmail.com**
-
-OR Here on Linkden: <a href="https://www.linkedin.com/in/samarjit-bhogal-691202241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarjit bhogal" height="30" width="40" /></a>
+LinkedIn: <a href="https://www.linkedin.com/in/samarjit-bhogal-691202241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarjit bhogal" height="30" width="40" /></a>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
